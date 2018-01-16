@@ -1,0 +1,21 @@
+Notes 01 - ML workflow
+Problemset 01 - Symbolic computing and optimization
+
+Notes 02 - TF basics
+Problemset 02 - TF gymnastics
+
+Notes 03 - Neural Networks
+Problemset 03 - Deep NN
+
+Notes 04 - Intro to CNN
+Problemset 04 - Classify CIFAR
+
+Notes 05 - TF High Level API
+Problemset 05 - CIFAR with TF Learn
+
+Notes 06 - Finetuning
+
+Notes 07 - Information integration and image augmentation
+
+Notes 08 - Other tasks
+object detection - segmentation - text detection
