@@ -1,54 +1,20 @@
-# 2016/2 Machine Learning
+# 2018/1 Machine Learning for Image Processing with TensorFlow
 
-## 2016 - Semestre II - Universidad Industrial de Santander
+We will be using a virtual machine with all required libraries. Contact me at [rramosp@unal.edu.co](mail.torramosp@unal.edu.co) to get it.
 
-_Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wmaXK4wpcK-EqaAW2atfWFiTVO_5dM-kQ/viewform)_
+Make sure the virtual machine is set with **two virtual cores** and **2048 GB RAM** at least.
 
-### Calificación
+Start the VM and open your browser at http://localhost:8008
 
-40% Problemsets<br/>
-30% Quizes<br/>
-30% Data analytics project
+It is recommended to close all applications on your physical machine and use a lightweight browser (http://www.maxthon.com/, https://www.qupzilla.com/,  etc).
 
-### Contenidos
+## Contents
 
-1. Mathematical optimization and symbolic computing
-2. Linear Regression
-3. Logistic Regression
-4. Neural Networks
-5. Regularization and performance evaluation
-6. Kernel methods
-7. Ensemble methods
-8. Learning representations
-9. Deep learning
-
-### Data analytics project
-
-Deberás de abordar un problema de analítica de datos, 1) elegir dataset, 2) definir tarea, 3) implementar la analítica de datos. El resultado ha de ser un notebook ejecutable que contenga, preprocesado (latent semantics y/o transformaciones), varios algoritmos de clasificación o regresión, análisis de rendimiento y curvas de aprendizaje.
-
-Hay muchas fuentes de datos y sitios de competiciones de machine learning en internet, entre ellas: [kaggle](https://www.kaggle.com/competitions), [kdnudgets](http://www.kdnuggets.com/competitions/) 
-
-Criterios de evaluación: 1) Complejidad de la tarea, 2) Compleción 3) Claridad del notebook
-
-### Programa y fechas
-
-                         SESSION 1      SESSION 2   ||   STUDENT DEADLINES        CALENDARIO ACADEMICO
-    W39   Sep26 - Sep30  INTRO          1.MATH      ||
-    W40   Oct 3 - Oct 7  2.LINREG       PSETS       ||
-    W41   Oct10 - Oct14  3.LOGREG       PSETS       ||   
-    W42   Oct17 - Oct21  PROJECT        PROJECT     ||   Oct21 PROJECT DATASET
-    W43   Oct24 - Oct28  PSETS          PSETS       ||   Oct28 PSETS 1 2 3 
-    W44   Oct31 - Nov 4  QUIZPREP       QUIZ        ||                            Nov4  PRIMERA NOTA
-    W45   Nov 7 - Nov11  4.NEURAL       PSETS       ||
-    W46   Nov14 - Nov18  5.REGPE        PSETS       ||
-    W47   Nov21 - Nov25  PROJECT        PROJECT     ||
-    W48   Nov28 - Dec 2  PROJECT        PROJECT     ||   Dec 2 PROJECT TASK   
-    W49   Dec 5 - Dec 9  6.LATSEM       PSETS       ||   Dec11 PSETS 4 5 6
-    W50   Dec12 - Dec16  QUIZPREP       QUIZ        ||                            Dec16 SEGUNDA NOTA
-    
-    W02   Ene 9 - Ene13  7.KERNEL       PSETS       ||
-    W03   Ene16 - Ene20  8.ENSEMBL      PSETS       ||
-    W04   Ene23 - Ene24  9.CNN+RNN      PSETS       ||
-    W05   Ene30 - Feb 3  QUIZPREP       QUIZ        ||   Ene29 PSETS 7 8 9
-    W06   Feb 6 - Feb10                             ||   Feb10 PROJECT FINAL
-    W07   Feb13 - Feb17                             ||                            Feb17 NOTA FINAL
+1. Machine learning algorithm design workflow
+2. TensorFlow for symbolic computing
+3. Multilayer perceptrons
+4. Convolutional neural networks
+5. TensorFlow high level API
+6. Finetuning
+7. Multimodal data
+8. Mutichannel imagery
